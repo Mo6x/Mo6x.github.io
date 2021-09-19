@@ -1,0 +1,33 @@
+body {
+background: white
+}
+h1 {
+text-align: center;
+color: blue;
+text-size-adjust: 9000;
+}
+a{
+  color: bisque;
+}
+ul{
+    color: burlywood;
+    width: fit-content;
+}
+span{
+    font-size: x-large;
+    width: auto;
+    color: blue;
+}
+table {
+    border: 1px solid black;
+    width: 50%;
+}
+img{
+ font-size: x-small;
+ width: 100%;
+ height: 373px;
+}
+.img-container{
+    margin: 50px 50px 50px 50px;
+}
+
